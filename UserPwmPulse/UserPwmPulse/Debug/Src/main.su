@@ -1,0 +1,5 @@
+main.c:68:6:delay	8	static
+main.c:74:6:DutyGenerator	24	static
+main.c:183:6:SystemClock_Config	96	static
+main.c:89:5:main	40	static
+main.c:280:6:_Error_Handler	0	static

@@ -1,0 +1,5 @@
+main.c:67:7:GetNumtoString	12	static
+main.c:79:7:HAL_UART_TxCpltCallback	0	static
+main.c:134:6:SystemClock_Config	96	static
+main.c:86:5:main	16	static
+main.c:231:6:_Error_Handler	0	static

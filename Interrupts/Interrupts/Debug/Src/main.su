@@ -1,0 +1,4 @@
+main.c:77:10:StringToNum	8	static
+main.c:153:6:SystemClock_Config	96	static
+main.c:96:5:main	72	static
+main.c:312:6:_Error_Handler	0	static
